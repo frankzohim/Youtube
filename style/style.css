@@ -1,0 +1,19 @@
+/* This file contains css related to all pages*/
+
+p {
+
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+body{
+    
+    /*This style below will be inherited*/
+    margin : 0px;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: #F9F9F9;
+    font-family: Roboto, Arial;
+}
